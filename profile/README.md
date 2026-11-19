@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeffi-ERP/.github/main/assets/jeffi-erp-logo.svg" alt="Jeffi ERP" width="96" height="96">
+</p>
+
 <h1 align="center">Jeffi ERP</h1>
 
 <p align="center">
